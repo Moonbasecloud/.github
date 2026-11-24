@@ -12,12 +12,33 @@ Hosting, database, domains, analytics, rollbacks, team access — all in one pla
 
 ### How it works
 
-1. **Connect moonbase to your AI agent once** — Claude, ChatGPT, Cursor and other assistants.
-2. **Tell it: "put this live on moonbase."** Your agent deploys the app, sets up what it needs and gives you a live link.
-3. **Keep building.** Every update, rollback and setting goes through the same conversation.
+1. **Connect moonbase to your AI agent once.** Add the moonbase connector (MCP) to Claude, ChatGPT, Cursor or another assistant that supports connectors. You sign in to moonbase in the browser and approve access. No API key goes into the chat.
+2. **Tell it: "put this live on moonbase."** Your agent packages the app, deploys it and gives you a live HTTPS link.
+3. **Keep building.** Updates, rollbacks and settings all go through the same conversation.
 
-### Get started
+### What your agent can do on moonbase
 
-- 🌐 **Website:** [moonbase.cloud](https://moonbase.cloud/?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch)
-- 📖 **Getting started:** [moonbase.cloud/docs/getting-started](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch)
-- 🧠 **Agent instructions (Skill):** [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)
+- **Deploy** a project and report when it is live, or explain why it is not, using the deploy logs and error explanations.
+- **Environment variables:** list, set and remove them. Secret values are typed on moonbase's own page, never in chat.
+- **Custom domains:** add, verify and check them.
+- **Versions and rollback:** list earlier versions and put one back.
+- **Team access:** invite members and set their roles.
+- **Analytics:** read visitor stats for a mission.
+- **Database:** a managed PostgreSQL database, up to one per mission, where enabled, with export.
+- **Export:** download a mission's source.
+
+### Connect
+
+| | |
+|---|---|
+| **Connector (MCP) address** | `https://app.moonbase.cloud/mcp` |
+| **Setup for Claude, ChatGPT, Cursor and others** | [moonbase.cloud/docs/deploy-from-ai-chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
+| **Agent instructions (Skill)** | [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill): versioned and updated with the product |
+| **CI / GitHub Actions** | [Deploying from GitHub Actions](https://moonbase.cloud/docs/github-actions-ci-cd?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
+
+### Resources
+
+- 🌐 [moonbase.cloud](https://moonbase.cloud/?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) · 📖 [Docs](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) · 🤖 [llms.txt](https://moonbase.cloud/llms.txt)
+- 🆕 [Changelog](https://moonbase.cloud/changelog?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) · 🟢 [Status](https://moonbase.cloud/status?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch)
+- 🔒 [Security](https://moonbase.cloud/security?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) · report a vulnerability: see [SECURITY.md](https://github.com/Moonbasecloud/.github/blob/main/SECURITY.md)
+- 💬 [Contact](https://moonbase.cloud/contact?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) · [Support](https://github.com/Moonbasecloud/.github/blob/main/SUPPORT.md)
