@@ -19,6 +19,14 @@
 
 <br/>
 
+## 🌙 What is moonbase?
+
+**moonbase is the platform that runs the apps you build with AI.**
+
+You build your app in Claude, ChatGPT, Cursor or another AI agent. moonbase gives it everything it needs to live: a managed PostgreSQL database, hosting on a live HTTPS address, your own domain, versions you can roll back to, and visitor analytics.
+
+Then you keep running it from the same chat. No servers to manage, no DevOps.
+
 ## ✨ How it works
 
 <table>
