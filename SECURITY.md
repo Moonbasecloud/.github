@@ -9,7 +9,7 @@ We take the security of moonbase and of the apps our customers run on it serious
 Report it privately in one of these ways:
 
 1. **GitHub private vulnerability reporting (preferred for anything in these repositories).** Open the affected repository, go to the **Security** tab and choose **Report a vulnerability**. Only the moonbase maintainers can see the report.
-2. **moonbase's security page.** For the moonbase platform itself (moonbase.cloud, app.moonbase.cloud, hosted apps, the connector at `https://app.moonbase.cloud/mcp`), follow the instructions and security contact on [moonbase.cloud/security](https://moonbase.cloud/security). The same contact is published in [security.txt](https://moonbase.cloud/.well-known/security.txt).
+2. **Email [admin@moonbase.cloud](mailto:admin@moonbase.cloud).** Use this for the moonbase platform itself (moonbase.cloud, app.moonbase.cloud, hosted apps, the connector at `https://app.moonbase.cloud/mcp`). This is the security contact published on [moonbase.cloud/security](https://moonbase.cloud/security) and in [security.txt](https://moonbase.cloud/.well-known/security.txt). That page also has a report form.
 
 Please include:
 
@@ -36,6 +36,6 @@ Please:
 
 ## Scope
 
-In scope: the moonbase platform and the public repositories in this organization, such as [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill).
+In scope: the moonbase platform and the public repositories in this organization: [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) and [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples).
 
 Abuse on a moonbase-hosted app (phishing, malware, spam) is not a vulnerability report. Use the abuse form on [moonbase.cloud/security](https://moonbase.cloud/security) instead.

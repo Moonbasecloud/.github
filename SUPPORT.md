@@ -7,7 +7,7 @@
 | Something is not working | [Troubleshooting](https://moonbase.cloud/docs/troubleshooting) |
 | Is moonbase up? | [Status](https://moonbase.cloud/status) |
 | What changed | [Changelog](https://moonbase.cloud/changelog) |
-| Help with your account or a mission | [Support](https://app.moonbase.cloud/support) (sign in first) |
+| Help with your account or a mission | [Support](https://moonbase.cloud/support) (sign in first) |
 | Anything else | [Contact](https://moonbase.cloud/contact) |
 | A security issue | [SECURITY.md](SECURITY.md). Please don't post it publicly |
 

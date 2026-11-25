@@ -24,8 +24,15 @@ Hosting, database, domains, analytics, rollbacks, team access — all in one pla
 - **Versions and rollback:** list earlier versions and put one back.
 - **Team access:** invite members and set their roles.
 - **Analytics:** read visitor stats for a mission.
-- **Database:** a managed PostgreSQL database, up to one per mission, where enabled, with export.
+- **Database:** a managed PostgreSQL database, up to one per mission, on every plan (Free included), with export.
 - **Export:** download a mission's source.
+
+### Open source here
+
+| Repository | What it is |
+|---|---|
+| [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) | The moonbase Skill: instructions that teach any AI agent to deploy and run apps on moonbase. Files for Claude, ChatGPT, Cursor, Copilot, Gemini and AGENTS.md. |
+| [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples) | Three small projects that deploy as they are: a static page, an Express app with a database, and a minimal Next.js app. Use it as a template. |
 
 ### Connect
 
