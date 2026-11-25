@@ -115,7 +115,7 @@ Then you keep running it from the same chat. No servers to manage, no DevOps.
 | | |
 |---|---|
 | **Connector (MCP) address** | `https://app.moonbase.cloud/mcp` |
-| **Setup for Claude, ChatGPT, Cursor and others** | [moonbase.cloud/docs/deploy-from-ai-chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
+| **Setup for Claude, ChatGPT, Cursor, VS Code, Gemini CLI and Devin Desktop** | [moonbase.cloud/docs/deploy-from-ai-chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
 | **Agent instructions (Skill)** | [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) — versioned and updated with the product |
 | **CI / GitHub Actions** | [Deploying from GitHub Actions](https://moonbase.cloud/docs/github-actions-ci-cd?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
 
