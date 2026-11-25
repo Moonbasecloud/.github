@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://moonbase.cloud/?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/banner-dark.svg">
-      <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/banner-light.svg" width="100%" alt="moonbase — AI built your app. moonbase runs everything else.">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/banner-dark.png">
+      <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/banner-light.png" width="100%" alt="moonbase — Build it with AI. Run it with a sentence.">
     </picture>
   </a>
 </p>
