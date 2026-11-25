@@ -56,6 +56,20 @@ Then you keep running it from the same chat. No servers to manage, no DevOps.
   <br/><sub>Your moonbase dashboard: every app, its visitors and its storage in one place. (Demo data.)</sub>
 </p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/project-overview.png" width="100%" alt="A project overview in moonbase: health, plan, visitors, live preview, password, domain, MoonGuard, badge and versions"><br/>
+      <sub>One project: health, visitors, domain, versions. (Demo data.)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/database.png" width="100%" alt="The managed database of a project in moonbase, with its size"><br/>
+      <sub>Its managed database. (Demo data.)</sub>
+    </td>
+  </tr>
+</table>
+
+
 ## 🧩 What the moonbase platform runs for your app
 
 <table>
