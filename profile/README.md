@@ -146,7 +146,8 @@ Running on moonbase? Show it in your README:
   <a href="https://x.com/moonbase_cloud">X</a> ·
   <a href="https://www.facebook.com/moonbasecloud">Facebook</a> ·
   <a href="https://www.tiktok.com/@moonbase.cloud">TikTok</a> ·
-  <a href="https://www.instagram.com/moonbase.cloud/">Instagram</a>
+  <a href="https://www.instagram.com/moonbase.cloud/">Instagram</a> ·
+  <a href="https://www.linkedin.com/company/moonbase-cloud">LinkedIn</a>
 </p>
 
 <p align="center"><sub>Built by <a href="https://moonbase.cloud/about?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch">Moxie A.R. LTD</a></sub></p>
