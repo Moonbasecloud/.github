@@ -142,5 +142,7 @@ Running on moonbase? Show it in your README:
   <a href="https://moonbase.cloud/security?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch">Security</a> ·
   <a href="https://github.com/Moonbasecloud/.github/blob/main/SUPPORT.md">Support</a> ·
   <a href="https://moonbase.cloud/contact?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch">Contact</a> ·
-  <a href="https://moonbase.cloud/llms.txt">llms.txt</a>
+  <a href="https://moonbase.cloud/llms.txt">llms.txt</a> ·
+  <a href="https://x.com/moonbase_cloud">X</a> ·
+  <a href="https://www.facebook.com/moonbasecloud">Facebook</a>
 </p>
