@@ -13,8 +13,8 @@ Hosting, database, domains, analytics, rollbacks, team access — all in one pla
 ### How it works
 
 1. **Connect moonbase to your AI agent once.** Add the moonbase connector (MCP) to Claude, ChatGPT, Cursor or another assistant that supports connectors. You sign in to moonbase in the browser and approve access. No API key goes into the chat.
-2. **Tell it: "put this live on moonbase."** Your agent packages the app, deploys it and gives you a live HTTPS link.
-3. **Keep building.** Updates, rollbacks and settings all go through the same conversation.
+2. **Ask for the app you want, data included.** For example: *"Build me a booking app for my yoga studio, with a database for clients and classes, and put it live on moonbase."* Your agent writes the app, moonbase creates its PostgreSQL database, and you get a live HTTPS link.
+3. **Keep building in the same chat.** *"Add a page for monthly passes."* *"Connect my domain."* *"Roll back to yesterday's version."* Updates, the database, domains and rollbacks all go through the same conversation.
 
 ### What your agent can do on moonbase
 
@@ -31,7 +31,7 @@ Hosting, database, domains, analytics, rollbacks, team access — all in one pla
 
 | Repository | What it is |
 |---|---|
-| [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) | The moonbase Skill: instructions that teach any AI agent to deploy and run apps on moonbase. Files for Claude, ChatGPT, Cursor, Copilot, Gemini and AGENTS.md. |
+| [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) | The moonbase Skill: instructions that teach any AI agent to build, launch and run apps on moonbase, database included. Files for Claude, ChatGPT, Cursor, Copilot, Gemini and AGENTS.md. |
 | [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples) | Three small projects that deploy as they are: a static page, an Express app with a database, and a minimal Next.js app. Use it as a template. |
 
 ### Connect
