@@ -56,18 +56,10 @@ Then you keep running it from the same chat. No servers to manage, no DevOps.
   <br/><sub>Your moonbase dashboard: every app, its visitors and its storage in one place. (Demo data.)</sub>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/project-overview.png" width="100%" alt="A project overview in moonbase: health, plan, visitors, live preview, password, domain, MoonGuard, badge and versions"><br/>
-      <sub>One project: health, visitors, domain, versions. (Demo data.)</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/database.png" width="100%" alt="The managed database of a project in moonbase, with its size"><br/>
-      <sub>Its managed database. (Demo data.)</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/project-overview.png" width="100%" alt="A project overview in moonbase: health, plan, visitors, live preview, password, domain, MoonGuard, badge and versions">
+  <br/><sub>One project: health, visitors, domain, versions. (Demo data.)</sub>
+</p>
 
 
 ## 🧩 What the moonbase platform runs for your app
@@ -121,7 +113,7 @@ Then you keep running it from the same chat. No servers to manage, no DevOps.
 
 | Repository | What it is |
 |---|---|
-| **[moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)** | The moonbase Skill: teaches any AI agent to build, launch and run apps on the moonbase platform, database included. Files for Claude, ChatGPT, Cursor, Copilot, Gemini and AGENTS.md. |
+| **[moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)** | The moonbase Skill: teaches any AI agent to build, launch and run apps on the moonbase platform, database included. Files for Claude, ChatGPT, Cursor, Copilot and Gemini, plus AGENTS.md for Codex and other agents. |
 | **[moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples)** | Three small apps that run on moonbase as they are: a static page, an Express app with a database, and a minimal Next.js app. Use it as a template. |
 
 ## 🔌 Connect
