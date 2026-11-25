@@ -125,13 +125,13 @@ Running on moonbase? Show it in your README:
 
 <a href="https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-powered-by-moonbase-dark.svg">
-    <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-powered-by-moonbase-light.svg" alt="powered by moonbase" height="40">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-dark.svg">
+    <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-light.svg" alt="made with moonbase" height="40">
   </picture>
 </a>
 
 ```md
-[![powered by moonbase](https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-powered-by-moonbase-light.svg)](https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by)
+[![made with moonbase](https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-light.svg)](https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by)
 ```
 
 ---
