@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="moonbase — AI built your app. moonbase runs everything else.">
+  <rect width="1280" height="420" rx="24" fill="#0d1117"/>
+  <circle cx="640" cy="92" r="34" fill="#0d1117" stroke="#f0f6fc" stroke-width="11"/>
+  <text x="640" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#f0f6fc" letter-spacing="0.5">moonbase</text>
+  <text x="640" y="236" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f0f6fc">AI built your app. moonbase runs everything else.</text>
+  <text x="640" y="282" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9198a1">The platform for apps built with AI — all run by your AI agent.</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#e6edf3" text-anchor="middle">
+    <rect x="248" y="322" width="120" height="40" rx="20" fill="#21262d"/><text x="308" y="348">Database</text>
+    <rect x="380" y="322" width="110" height="40" rx="20" fill="#21262d"/><text x="435" y="348">Hosting</text>
+    <rect x="502" y="322" width="118" height="40" rx="20" fill="#21262d"/><text x="561" y="348">Domains</text>
+    <rect x="632" y="322" width="122" height="40" rx="20" fill="#21262d"/><text x="693" y="348">Analytics</text>
+    <rect x="766" y="322" width="122" height="40" rx="20" fill="#21262d"/><text x="827" y="348">Rollbacks</text>
+    <rect x="900" y="322" width="132" height="40" rx="20" fill="#21262d"/><text x="966" y="348">Launch tools</text>
+  </g>
+</svg>
