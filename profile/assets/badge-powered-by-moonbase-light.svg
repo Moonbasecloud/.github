@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="40" viewBox="0 0 212 40" role="img" aria-label="powered by moonbase">
+  <rect x="0.5" y="0.5" width="211" height="39" rx="8" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <circle cx="22" cy="20" r="10.5" fill="#ffffff"/>
+  <circle cx="22" cy="20" r="6.5" fill="none" stroke="#1f2328" stroke-width="2.6"/>
+  <text x="42" y="25.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">powered by <tspan font-weight="700">moonbase</tspan></text>
+</svg>

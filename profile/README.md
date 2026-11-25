@@ -43,6 +43,11 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/dashboard.png" width="100%" alt="The moonbase dashboard: plan and storage, visitors, daily traffic, countries, sources, devices and top pages">
+  <br/><sub>Your moonbase dashboard: every app, its visitors and its storage in one place. (Demo data.)</sub>
+</p>
+
 ## 🧩 What the moonbase platform runs for your app
 
 <table>
@@ -105,6 +110,21 @@
 | **Setup for Claude, ChatGPT, Cursor and others** | [moonbase.cloud/docs/deploy-from-ai-chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
 | **Agent instructions (Skill)** | [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) — versioned and updated with the product |
 | **CI / GitHub Actions** | [Deploying from GitHub Actions](https://moonbase.cloud/docs/github-actions-ci-cd?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
+
+## 🏷️ Badge
+
+Running on moonbase? Show it in your README:
+
+<a href="https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-powered-by-moonbase-dark.svg">
+    <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-powered-by-moonbase-light.svg" alt="powered by moonbase" height="40">
+  </picture>
+</a>
+
+```md
+[![powered by moonbase](https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-powered-by-moonbase-light.svg)](https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by)
+```
 
 ---
 
