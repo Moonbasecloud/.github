@@ -29,7 +29,7 @@ Please include:
 
 Please:
 
-- test only against your own account and your own missions;
+- test only against your own account and your own projects;
 - do not access, change or delete other people's data;
 - do not run automated scanning that degrades the service for other users;
 - do not use social engineering, phishing or physical attacks;

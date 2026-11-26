@@ -7,7 +7,7 @@ assignees: []
 ---
 
 <!--
-For help with your account or a mission, use Support: https://moonbase.cloud/support
+For help with your account or a project, use Support: https://moonbase.cloud/support
 For a security issue, do not open an issue: see https://github.com/Moonbasecloud/.github/blob/main/SECURITY.md
 Never paste API keys, tokens or other secrets here.
 -->
