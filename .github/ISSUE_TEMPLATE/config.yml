@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Help with your account or a project
-    url: https://moonbase.cloud/support
-    about: Account, billing and project questions go to moonbase Support (sign in first).
+    url: https://moonbase.cloud/contact
+    about: Account, billing and project questions go to the moonbase contact page or contact@moonbase.cloud.
   - name: Report a security vulnerability
     url: https://github.com/Moonbasecloud/.github/blob/main/SECURITY.md
     about: Please don't open a public issue. Our security policy explains how to report privately.

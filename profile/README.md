@@ -10,7 +10,9 @@
 <p align="center">
   <a href="https://moonbase.cloud/?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch"><b>Website</b></a>
   &nbsp;·&nbsp;
-  <a href="https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch"><b>Connect your AI agent</b></a>
+  <a href="https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch"><b>Connect your AI</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://gh-example-event-rsvp.moonbase.host"><b>Open live demo</b></a>
   &nbsp;·&nbsp;
   <a href="https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch"><b>Docs</b></a>
   &nbsp;·&nbsp;
@@ -19,9 +21,7 @@
 
 <br/>
 
-<p align="center"><b>moonbase is the platform that runs the apps you build with AI.</b></p>
-
-You build your app in Claude, ChatGPT, Cursor or another AI agent. moonbase gives it everything it needs to live: a managed PostgreSQL database on every plan, hosting on a live HTTPS address, your own domain, versions you can roll back to, and visitor analytics. Then you keep running it from the same chat. No servers to manage, no DevOps.
+You build your app in Claude, ChatGPT, Cursor or another AI agent, and moonbase puts it live with a managed PostgreSQL database, a free HTTPS address, versions you can roll back to and visitor analytics, all run from the same chat with no servers to manage.
 
 ## Quick start
 
@@ -37,6 +37,8 @@ You build your app in Claude, ChatGPT, Cursor or another AI agent. moonbase give
    Already have the project? If it is open in an AI coding tool that can read its files (Claude Code, Cursor, Codex and others), ask it to deploy. If you only have the files, upload a ZIP with the **+ New mission** button in the moonbase app.
 3. **Keep running it from the chat**: *"Connect my domain."* · *"Roll back to yesterday's version."* · *"How many visitors did I get this week?"*
 
+   Every project gets a free address on moonbase.host. Connecting your own domain is on paid plans.
+
 New here? Start with the [getting started guide](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) or open the ready-made version of the app above, event-rsvp ([live demo](https://gh-example-event-rsvp.moonbase.host) · [code](https://github.com/Moonbasecloud/moonbase-examples/tree/main/event-rsvp)), from the first prompt to a follow-up change.
 
 <p align="center">
@@ -51,67 +53,28 @@ New here? Start with the [getting started guide](https://moonbase.cloud/docs/get
 
 ## What moonbase runs for your app
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🗄️ Database</h4>
-      A managed PostgreSQL database, up to one per project, on every plan — Free included. Created when your app asks for it, connected for you.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🚀 Hosting & deploy</h4>
-      Your app goes live on an HTTPS address. Your agent reports when it is up, or tells you why a deploy failed, from the deploy history.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌐 Custom domains</h4>
-      Add your own domain, verify it and check it, step by step.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>⏪ Versions & rollback</h4>
-      See your app's earlier versions and put one back in one step.
-    </td>
-    <td width="33%" valign="top">
-      <h4>📈 Analytics</h4>
-      Visitors over 7 and 30 days, your top pages and where visitors came from.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🔒 Password protection</h4>
-      Put a password on a project while you work on it.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🔐 Environment variables</h4>
-      List, set and remove them. Secret values are typed on moonbase's own page, never in chat.
-    </td>
-    <td width="33%" valign="top">
-      <h4>👥 Team access</h4>
-      Invite members and set their roles. <sub>(paid plans)</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📦 Export</h4>
-      Download your app's source any time. It's yours.
-    </td>
-  </tr>
-</table>
+- **🗄️ Database:** A managed PostgreSQL database, up to one per project, on every plan — Free included. Created when your app asks for it, connected for you.
+- **🚀 Hosting & deploy:** Your app goes live on a free HTTPS address on moonbase.host. Your agent reports when it is up, or tells you why a deploy failed, from the deploy history.
+- **🌐 Custom domains:** Add your own domain, verify it and check it, step by step. <sub>(paid plans)</sub>
+- **⏪ Versions & rollback:** See your app's earlier versions and restore a saved code version in one step. Your app's data in its database is kept.
+- **📈 Analytics:** Visitors over 7 and 30 days, your top pages and where visitors came from.
+- **🔒 Password protection:** Put a password on a project while you work on it.
+- **🔐 Environment variables:** List, set and remove them. Secret values are typed on moonbase's own page, never in chat.
+- **👥 Team access:** Invite members and set their roles. <sub>(paid plans)</sub>
+- **📦 Export:** The project owner downloads the code of the live version or any of the last 10 versions, as deployed.
 
 ## Open source on GitHub
 
-| Repository | What it is |
-|---|---|
-| **[moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)** | The moonbase Skill: teaches any AI agent to build, launch and run apps on moonbase, database included. Files for Claude, ChatGPT, Cursor, Copilot and Gemini, plus AGENTS.md for Codex and other agents. MIT licensed. |
-| **[moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples)** | Small apps that deploy to moonbase as they are, each with a one-line prompt for your AI agent, including the event page with RSVPs from the quick start, an Express guestbook and a Next.js app, each with a managed PostgreSQL database. Use one as a template. MIT licensed. |
-| **[moonbase-deploy-action](https://github.com/Moonbasecloud/moonbase-deploy-action)** | A GitHub Action that deploys your repository to moonbase on every push, with your API key kept as a repository secret. The job passes only when the deploy is live. Use `Moonbasecloud/moonbase-deploy-action@v1`. MIT licensed. |
+- **[moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)**: the moonbase Skill: teaches any AI agent to build, launch and run apps on moonbase, database included. Files for Claude, ChatGPT, Cursor, Copilot and Gemini, plus AGENTS.md for Codex and other agents. MIT licensed.
+- **[moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples)**: small apps that deploy to moonbase as they are, each with a one-line prompt for your AI agent, including the event page with RSVPs from the quick start, an Express guestbook and a Next.js app, each with a managed PostgreSQL database. Use one as a template. MIT licensed.
+- **[moonbase-deploy-action](https://github.com/Moonbasecloud/moonbase-deploy-action)**: a GitHub Action that deploys your repository to moonbase on every push, with your API key kept as a repository secret. The job passes only when the deploy is live. Use `Moonbasecloud/moonbase-deploy-action@v1`. MIT licensed.
 
 ## Connect
 
-| | |
-|---|---|
-| **Connector (MCP) address** | `https://app.moonbase.cloud/mcp` |
-| **Setup for Claude, ChatGPT, Cursor, VS Code, Gemini CLI and Devin Desktop** | [moonbase.cloud/docs/deploy-from-ai-chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
-| **Agent instructions (Skill)** | [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) — versioned and updated with the product |
-| **CI / GitHub Actions** | [Deploying from GitHub Actions](https://moonbase.cloud/docs/github-actions-ci-cd?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) |
+- **Connector (MCP) address:** the one in the [quick start](#quick-start), to copy from there.
+- **Setup for Claude, ChatGPT, Cursor, VS Code, Gemini CLI and Devin Desktop:** [Deploy from any AI chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch)
+- **Agent instructions (Skill):** [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill), versioned and updated with the product
+- **CI / GitHub Actions:** [Deploying from GitHub Actions](https://moonbase.cloud/docs/github-actions-ci-cd?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch)
 
 ## Badge
 
@@ -136,7 +99,7 @@ Running on moonbase? Show it in your README:
 
 ## Support and community
 
-- **Help with your account or a project:** [moonbase.cloud/support](https://moonbase.cloud/support?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) (sign in first), or email [contact@moonbase.cloud](mailto:contact@moonbase.cloud).
+- **Help with your account or a project:** the [contact page](https://moonbase.cloud/contact?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch), or email [contact@moonbase.cloud](mailto:contact@moonbase.cloud).
 - **A wrong fact in the Skill or a broken example:** open an issue in [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill/issues) or [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples/issues).
 - **Questions and ideas:** [Discussions in moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill/discussions).
 - **Follow along:** [X](https://x.com/moonbase_cloud) · [LinkedIn](https://www.linkedin.com/company/moonbase-cloud) · [Changelog](https://moonbase.cloud/changelog?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch)
