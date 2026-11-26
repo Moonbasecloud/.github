@@ -37,7 +37,7 @@ You build your app in Claude, ChatGPT, Cursor or another AI agent. moonbase give
    Already have the project? If it is open in an AI coding tool that can read its files (Claude Code, Cursor, Codex and others), ask it to deploy. If you only have the files, upload a ZIP with the **+ New mission** button in the moonbase app.
 3. **Keep running it from the chat**: *"Connect my domain."* · *"Roll back to yesterday's version."* · *"How many visitors did I get this week?"*
 
-New here? Start with the [getting started guide](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) or open the ready-made version of the app above, [event-rsvp](https://github.com/Moonbasecloud/moonbase-examples/tree/main/event-rsvp), from the first prompt to a follow-up change.
+New here? Start with the [getting started guide](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) or open the ready-made version of the app above, event-rsvp ([live demo](https://gh-example-event-rsvp.moonbase.host) · [code](https://github.com/Moonbasecloud/moonbase-examples/tree/main/event-rsvp)), from the first prompt to a follow-up change.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/dashboard.png" width="100%" alt="The moonbase dashboard: plan and storage, visitors, daily traffic, countries, sources, devices and top pages">
