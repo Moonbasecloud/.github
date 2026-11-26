@@ -53,7 +53,7 @@ New here? Start with the [getting started guide](https://moonbase.cloud/docs/get
   <tr>
     <td width="33%" valign="top">
       <h4>🗄️ Database</h4>
-      A managed PostgreSQL database, up to one per project, on every plan — Free included. Created on deploy, connected for you. Export it any time.
+      A managed PostgreSQL database, up to one per project, on every plan — Free included. Created when your app asks for it, connected for you. Export it from your project's Database page.
     </td>
     <td width="33%" valign="top">
       <h4>🚀 Hosting & deploy</h4>
