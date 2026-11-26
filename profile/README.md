@@ -32,10 +32,12 @@ You build your app in Claude, ChatGPT, Cursor or another AI agent. moonbase give
    ```
 
    Setup steps for Claude, ChatGPT, Cursor, VS Code, Gemini CLI and Devin Desktop: [Deploy from any AI chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch).
-2. **Ask for your app** in the chat, for example: *"Build me a booking app for my yoga studio, with a database for clients and classes, and put it live on moonbase."*
+2. **Ask for your app** in the chat, for example: *"Build me an event page for the Riverbend Summer Picnic where guests can RSVP, with a database for guests, and put it live on moonbase."*
+
+   Already have the project? If it is open in an AI coding tool that can read its files (Claude Code, Cursor, Codex and others), ask it to deploy. If you only have the files, upload a ZIP with the **+ New mission** button in the moonbase app.
 3. **Keep running it from the chat**: *"Connect my domain."* · *"Roll back to yesterday's version."* · *"How many visitors did I get this week?"*
 
-New here? Start with the [getting started guide](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) or a ready-made app from [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples).
+New here? Start with the [getting started guide](https://moonbase.cloud/docs/getting-started?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch) or open the ready-made version of the app above, [event-rsvp](https://github.com/Moonbasecloud/moonbase-examples/tree/main/event-rsvp), from the first prompt to a follow-up change.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/dashboard.png" width="100%" alt="The moonbase dashboard: plan and storage, visitors, daily traffic, countries, sources, devices and top pages">
@@ -99,7 +101,7 @@ New here? Start with the [getting started guide](https://moonbase.cloud/docs/get
 | Repository | What it is |
 |---|---|
 | **[moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)** | The moonbase Skill: teaches any AI agent to build, launch and run apps on moonbase, database included. Files for Claude, ChatGPT, Cursor, Copilot and Gemini, plus AGENTS.md for Codex and other agents. MIT licensed. |
-| **[moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples)** | Small apps that deploy to moonbase as they are, each with a one-line prompt for your AI agent, including an Express app with a managed PostgreSQL database and a Next.js app. Use one as a template. MIT licensed. |
+| **[moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples)** | Small apps that deploy to moonbase as they are, each with a one-line prompt for your AI agent, including the event page with RSVPs from the quick start, an Express guestbook and a Next.js app, each with a managed PostgreSQL database. Use one as a template. MIT licensed. |
 | **[moonbase-deploy-action](https://github.com/Moonbasecloud/moonbase-deploy-action)** | A GitHub Action that deploys your repository to moonbase on every push, with your API key kept as a repository secret. The job passes only when the deploy is live. Use `Moonbasecloud/moonbase-deploy-action@v1`. MIT licensed. |
 
 ## Connect
