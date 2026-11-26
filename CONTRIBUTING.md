@@ -4,7 +4,7 @@ Thanks for your interest in moonbase.
 
 ## What is open
 
-The public repositories in this organization, [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) and [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples), welcome issues and pull requests. The moonbase product itself is closed source, so its code is not on GitHub.
+The public repositories in this organization, [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) and [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples), welcome issues. The moonbase product itself is closed source: its code is not on GitHub and we do not take outside code contributions to it.
 
 ## Issues
 
@@ -15,9 +15,6 @@ The public repositories in this organization, [moonbase-skill](https://github.co
 
 ## Pull requests
 
-1. Keep each pull request to one change, and explain what it changes and why.
-2. Keep facts accurate against the live product and the [docs](https://moonbase.cloud/docs/getting-started).
-3. Follow the repository's own README for build or test steps.
-4. Never commit secrets, API keys or `.env` files.
+We don't accept outside pull requests. If something in a repository is wrong or missing, please open an issue instead and we'll fix it.
 
-By contributing you agree that your contribution is licensed under the repository's license, and you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) in issues and discussions.

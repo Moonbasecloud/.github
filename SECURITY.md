@@ -20,9 +20,10 @@ Please include:
 
 ## What to expect
 
-- We acknowledge your report and keep you updated while we work on it.
+- We acknowledge your report within 2 business days and keep you updated while we work on it.
 - We tell you when a fix is out, and credit you if you want that.
 - The full disclosure process is described on [moonbase.cloud/security](https://moonbase.cloud/security).
+- We do not run a paid bug bounty program.
 
 ## Good-faith research
 
