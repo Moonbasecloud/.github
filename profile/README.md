@@ -100,7 +100,7 @@ New here? Start with the [getting started guide](https://moonbase.cloud/docs/get
 |---|---|
 | **[moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill)** | The moonbase Skill: teaches any AI agent to build, launch and run apps on moonbase, database included. Files for Claude, ChatGPT, Cursor, Copilot and Gemini, plus AGENTS.md for Codex and other agents. MIT licensed. |
 | **[moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples)** | Small apps that deploy to moonbase as they are, each with a one-line prompt for your AI agent, including an Express app with a managed PostgreSQL database and a Next.js app. Use one as a template. MIT licensed. |
-| **moonbase-deploy-action** <sub>(coming soon)</sub> | A GitHub Action for deploying to moonbase from your workflows. Until it ships, see [Deploying from GitHub Actions](https://moonbase.cloud/docs/github-actions-ci-cd?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch). |
+| **[moonbase-deploy-action](https://github.com/Moonbasecloud/moonbase-deploy-action)** | A GitHub Action that deploys your repository to moonbase on every push, with your API key kept as a repository secret. The job passes only when the deploy is live. Use `Moonbasecloud/moonbase-deploy-action@v1`. MIT licensed. |
 
 ## Connect
 
