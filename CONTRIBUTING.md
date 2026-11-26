@@ -10,7 +10,7 @@ The public repositories in this organization, [moonbase-skill](https://github.co
 
 - **Bug or wrong fact?** Open an issue in the repository it belongs to, using the bug report form.
 - **Idea?** Use the feature request form.
-- **Help with your account or a mission?** That is a support question. See [SUPPORT.md](SUPPORT.md).
+- **Help with your account or a project?** That is a support question. See [SUPPORT.md](SUPPORT.md).
 - **Security problem?** Do not open an issue. See [SECURITY.md](SECURITY.md).
 
 ## Pull requests
