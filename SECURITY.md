@@ -37,6 +37,6 @@ Please:
 
 ## Scope
 
-In scope: the moonbase platform and the public repositories in this organization: [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) and [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples).
+In scope: the moonbase platform and all public repositories in this organization, including [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill), [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples) and [moonbase-deploy-action](https://github.com/Moonbasecloud/moonbase-deploy-action).
 
 Abuse on a moonbase-hosted app (phishing, malware, spam) is not a vulnerability report. Use the abuse form on [moonbase.cloud/security](https://moonbase.cloud/security) instead.

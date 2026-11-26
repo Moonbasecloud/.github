@@ -4,7 +4,7 @@ Thanks for your interest in moonbase.
 
 ## What is open
 
-The public repositories in this organization, [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill) and [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples), welcome issues. The moonbase product itself is closed source: its code is not on GitHub and we do not take outside code contributions to it.
+All public repositories in this organization welcome issues, including [moonbase-skill](https://github.com/Moonbasecloud/moonbase-skill), [moonbase-examples](https://github.com/Moonbasecloud/moonbase-examples) and [moonbase-deploy-action](https://github.com/Moonbasecloud/moonbase-deploy-action). The moonbase product itself is closed source: its code is not on GitHub and we do not take outside code contributions to it.
 
 ## Issues
 
