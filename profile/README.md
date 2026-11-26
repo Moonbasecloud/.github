@@ -74,8 +74,8 @@ New here? Start with the [getting started guide](https://moonbase.cloud/docs/get
       Visitors over 7 and 30 days, your top pages and where visitors came from.
     </td>
     <td width="33%" valign="top">
-      <h4>🧰 Launch tools <sub>(early access)</sub></h4>
-      Launch check for search engines and AI assistants, forms inbox, downtime alerts by email and Google Search Console setup. Being switched on project by project.
+      <h4>🔒 Password protection</h4>
+      Put a password on a project while you work on it.
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ New here? Start with the [getting started guide](https://moonbase.cloud/docs/get
 
 Running on moonbase? Show it in your README:
 
-<a href="https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by">
+<a href="https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=made-with">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-dark.svg">
     <img src="https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-light.svg" alt="made with moonbase" height="40">
@@ -123,7 +123,7 @@ Running on moonbase? Show it in your README:
 </a>
 
 ```md
-[![made with moonbase](https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-light.svg)](https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=powered-by)
+[![made with moonbase](https://raw.githubusercontent.com/Moonbasecloud/.github/main/profile/assets/badge-made-with-moonbase-light.svg)](https://moonbase.cloud/?utm_source=github&utm_medium=badge&utm_campaign=made-with)
 ```
 
 ## Security and trust
