@@ -30,7 +30,7 @@ You build your app in Claude, ChatGPT, Cursor or another AI agent, and moonbase 
    ```
 
    Setup steps for Claude, ChatGPT, Cursor, VS Code, Gemini CLI and Devin Desktop: [Deploy from any AI chat](https://moonbase.cloud/docs/deploy-from-ai-chat?utm_source=github&utm_medium=org-readme&utm_campaign=gh-launch).
-2. **Ask for your app** in the chat, for example: *"Build me an event page for the Riverbend Summer Picnic where guests can RSVP, with a database for guests, and put it live on moonbase."*
+2. **Ask for your app** in the chat, for example: *"Build me an event page for the Riverbend Summer Picnic where guests can RSVP, with a database for guests. Launch it on moonbase and send me the link."*
 
    Already have the project? If it is open in an AI coding tool that can read its files (Claude Code, Cursor, Codex and others), ask it to deploy. If you only have the files, upload a ZIP with the **+ New mission** button in the moonbase app.
 3. **Keep running it from the chat**: *"Connect my domain."* · *"Roll back to yesterday's version."* · *"How many visitors did I get this week?"*
